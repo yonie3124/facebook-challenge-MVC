@@ -1,0 +1,78 @@
+body{
+    width: 80%;
+    border: 3px solid lightgray;
+    margin: auto;
+    margin-top: 0.625rem;
+}
+.card{
+    margin-bottom: 5%;
+    margin-left: 1%;
+    margin-top: 1%;
+    width: 59.375rem;
+}
+form{
+    margin:5%;
+}
+small{
+    color: red;
+}
+#navContent{
+    display: flex;
+    justify-content: space-around;
+}
+.wellComeToFB{
+    margin-left: 43.75rem;
+    text-decoration: none;
+    font: black;
+    
+}
+.aTag{
+   text-align: left;
+}
+.formatting{
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttonAndDate{
+    width: 70%;
+    margin-left: 3.125rem;
+    font-size: 0.9rem;
+}
+.nameAndMessage{
+    width: 80%;
+}
+
+.card-title1{
+    font-size: 1.1rem;
+}
+.card-title{
+    font-size: 1.1rem;
+}
+.notFound{
+    color: red;
+}
+.card-body1{
+    display: flex;
+    justify-content: space-between;
+}
+.dateOfEdit{
+    font-size: 0.8rem;
+    margin-right: 6.25rem;
+}
+.name{
+    width: 100%;
+}
+.message{
+    width: 100%;
+}
+.seeMorePage{
+    text-decoration: underline;
+}
+.btnPrimary{
+    margin-left: 31.25rem;
+    margin-top: 6.25rem;
+}
+.H6{
+    color: red;
+}
